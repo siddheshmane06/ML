@@ -6,8 +6,6 @@ I   Feature Engineering
 
 1.6 Feature Extraction : Principal Component Analysis
 
-1.7 Feature Selection
-
 II   Supervised Learning : Regression
 
 2.2 Multiple Linear Regression
@@ -25,6 +23,8 @@ III   Supervised : Classification
 3.5 Decision Tree
 
 IV   Time Series Analysis
+
+4.1 Data Conversion
 
 4.3 Auto Regression
 
